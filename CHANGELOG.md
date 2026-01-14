@@ -1,3 +1,8 @@
+4.0.7 ~ jubr
+=====
+* update logging to ^1.0.0 for daily_flutter compatibility
+* update image to ^4.1.7 for flutter_flavorizr compatibility
+
 4.0.6
 =====
 * Make sure failed "dependency injection" results in failed steps/scenarios/features
